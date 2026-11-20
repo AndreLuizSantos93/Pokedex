@@ -83,8 +83,4 @@ O print abaixo mostra uma etapa da montagem da tela de detalhes no editor de lay
 
 <img src="docs/images/desenvolvimento.png" width="900" alt="Construção da tela de detalhes no Android Studio">
 
-## Autor
-
-Desenvolvido por **André Santos**, como projeto de estudo em desenvolvimento Android.
-
 Pokémon e seus personagens pertencem aos respectivos titulares. Este é um projeto educacional, sem vínculo oficial com a franquia.
